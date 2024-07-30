@@ -12,6 +12,6 @@
   - useState
   - useContext
 
-#### Visite this link and preview [CLICK HERE](https://mdmostakimbillah.github.io/madcoder-ai/)
+#### Visite this link and preview [CLICK HERE](https://mdmostakimbillah.github.io/madcoder_AI/)
 
 ![Screenshot from 2024-07-30 15-11-53](https://github.com/user-attachments/assets/0c066855-4704-4111-8f0e-827d1c045b1f)
