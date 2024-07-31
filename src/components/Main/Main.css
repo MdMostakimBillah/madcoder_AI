@@ -13,6 +13,8 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: 10px 0;
+  position: sticky;
+  position: -webkit-sticky;
 }
 .user_user {
   width: 35px;
