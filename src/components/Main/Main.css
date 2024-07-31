@@ -231,4 +231,7 @@ button {
     width: calc(100vw - 280px);
     overflow: hidden;
   }
+  .main-bottom {
+    bottom: 10px;
+  }
 }
