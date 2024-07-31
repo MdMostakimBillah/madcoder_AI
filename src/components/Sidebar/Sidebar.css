@@ -1,7 +1,6 @@
 aside {
   width: 280px;
-  max-height: 100vh;
-  height: 100vh;
+  height: 100dvh;
   overflow-y: hidden;
   background-color: #252932;
   padding: 15px 20px;
